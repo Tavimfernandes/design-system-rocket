@@ -2,7 +2,8 @@
 Projeto desenvolvido durante o ignite lab 03
 
 ![Primeira aula](https://user-images.githubusercontent.com/65549635/199789833-c3475e73-fa99-458e-af68-d6a320fb40cd.png)
-![image](https://user-images.githubusercontent.com/65549635/199794168-af85c233-6556-4ebf-a7bf-2a184596c85d.png)
+![image](https://user-images.githubusercontent.com/65549635/199794508-053f0a12-094e-4ea1-aa0a-cbe5277cb04c.png)
+
 
 Etapas desenvolvidas durante o projeto:
 
